@@ -61,7 +61,7 @@ Research project focused on IoT security threats and defenses.
 
 📧 Email: hariniprabhavathy2627@gmail.com
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/harini-a-99a36036a/
 
 🐙 GitHub: https://github.com/hariniprabhavathy2627-svg
 
